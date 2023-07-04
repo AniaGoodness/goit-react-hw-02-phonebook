@@ -1,0 +1,10 @@
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.formList {
+  display: flex;
+  flex-direction: column;
+}
+
